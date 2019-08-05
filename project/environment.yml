@@ -1,0 +1,12 @@
+name: project_environment
+dependencies:
+  - python=3.7.2
+  - scikit-learn
+  - numpy
+  - matplotlib
+  - pandas
+  - pip:
+    - azureml-defaults 
+    - azure-storage
+    - azureml-core
+    - azureml-pipeline       

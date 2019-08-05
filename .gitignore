@@ -1,0 +1,7 @@
+settings.json
+aml_config/.runconfig
+aml_config/conda_dependencies.yml
+aml_config/docker.runconfig
+aml_config/lastRun.runconfig
+aml_config/local.runconfig
+aml_config/project.json
